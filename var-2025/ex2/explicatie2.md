@@ -1,0 +1,1 @@
+Citim de la tastatură valorile k și n. Apoi, umplem matricea folosind formula a[i][j] = k \* i + aux,unde aux este inițial egal cu i și este decrementat cu 1 la fiecare iterație. Astfel, indicele i reprezintă numărul de ordine al rândului și indică poziția relativă a elementelor față de cel de pe diagonala principală.
